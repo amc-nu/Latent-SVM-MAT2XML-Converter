@@ -1,4 +1,4 @@
-# Latent-SVM-XML-Converter
+# Latent-SVM-MAT2XML-Converter
 
 Converts MAT model files created by LatentSVM Release 5 (DPM) to OpenCV XML model files.
 
